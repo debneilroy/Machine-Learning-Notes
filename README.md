@@ -1,39 +1,34 @@
 # Machine Learning Notes
 
-A compilation of notes and resources on machine learning, probability, and data science — curated for interview preparation and self-study.
+A personal compilation of notes, study guides, and reference materials for machine learning and data science interviews. This repo is actively maintained and will be updated as new content is added.
+
+---
 
 ## Contents
 
-### Notes & Study Guides
-
-| File | Description |
-|------|-------------|
-| `ML_Algorithms_From_Scratch.pdf` | Implementation walkthroughs of common ML algorithms from scratch |
-| `Notes_1.pdf` | General machine learning notes |
-| `Probability_Problems_1.pdf` | Probability problems and solutions for data science interviews |
-| `Pros and Cons of ML models.pdf` | Summary of trade-offs across common ML models |
+### General ML
+- `Notes_1.pdf` — General ML interview notes
+- `ML_Algorithms_From_Scratch.pdf` — ML algorithms implemented from scratch
+- `Pros and Cons of ML models.pdf` — Quick reference for model trade-offs
+- `Probability_Problems_1.pdf` — Probability problems and solutions
 
 ### System Design
+- `System_Design_Video_Recommendation.pdf` — Full video recommendation system design
+- `System_Design_LinkedIn_feed.pdf` — LinkedIn feed ranking system design
+
+### Recommendation System
+A dedicated folder covering recommendation system design in depth.
 
 | File | Description |
 |------|-------------|
-| `System_Design_LinkedIn_feed.pdf` | ML system design case study: LinkedIn feed ranking |
-| `System_Design_Video_Recommendation.pdf` | ML system design case study: video recommendation system |
+| `Video_Recommendation.pdf` | End-to-end video recommendation system design notes (32 pages) |
+| `Video Recommendation - Section 4.5 Heavy Ranker.pdf` | Deep dive into the heavy ranking stage |
+| `Video Recommendation - Section 5 Evaluation Study Guide.pdf` | Evaluation metrics and study guide |
+| `Video Recommendation - Section 6 Serving and Monolith.pdf` | Serving infrastructure and monolith architecture |
+| `hellointerview-learn-ml-system-design-problem-breakdowns-video-recommendations.pdf` | HelloInterview problem breakdown for video recommendations |
+| `Adapting the Facebook Reels RecSys AI Model Based on User Feedback - Engineering at Meta.pdf` | Meta engineering blog — Reels RecSys feedback adaptation |
+| `Scaling the Instagram Explore recommendations system - Engineering at Meta.pdf` | Meta engineering blog — Instagram Explore scaling |
 
-### Recommendation Systems
+---
 
-Resources on building and scaling recommendation systems, including industry case studies:
-
-| File | Description |
-|------|-------------|
-| `Recommendation System/Video_Recommendation.pdf` | Notes on video recommendation system design |
-| `Recommendation System/Adapting the Facebook Reels RecSys AI Model Based on User Feedback.pdf` | Meta engineering blog: adapting the Reels recommendation model based on user feedback |
-| `Recommendation System/Scaling the Instagram Explore recommendations system.pdf` | Meta engineering blog: scaling Instagram Explore recommendations |
-
-## Topics Covered
-
-- Machine learning algorithms (supervised, unsupervised)
-- Probability and statistics for data science
-- ML model trade-offs and selection criteria
-- ML system design (feeds, recommendations)
-- Industry-scale recommendation system architectures
+> **Note:** This repo is a living document and will be updated with new notes, system design breakdowns, and reference materials over time.
