@@ -10,6 +10,7 @@ A personal compilation of notes, study guides, and reference materials for machi
 - `Notes_1.pdf` — General ML interview notes
 - `ML_Algorithms_From_Scratch.pdf` — ML algorithms implemented from scratch
 - `Pros and Cons of ML models.pdf` — Quick reference for model trade-offs
+- `Pros and Cons of ML Models (Typeset).pdf` — Clean typeset/digital version of the same content
 - `Probability_Problems_1.pdf` — Probability problems and solutions
 
 ### System Design
