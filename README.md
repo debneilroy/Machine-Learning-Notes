@@ -12,6 +12,7 @@ A personal compilation of notes, study guides, and reference materials for machi
 - `Pros and Cons of ML models.pdf` — Quick reference for model trade-offs
 - `Pros and Cons of ML Models (Typeset).pdf` — Clean typeset/digital version of the same content
 - `Probability_Problems_1.pdf` — Probability problems and solutions
+- `Probability Problems 1 (Typeset).pdf` — Clean typeset version with worked, verified solutions
 
 ### System Design
 - `System_Design_Video_Recommendation.pdf` — Full video recommendation system design
