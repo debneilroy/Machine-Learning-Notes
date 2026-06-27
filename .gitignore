@@ -1,3 +1,5 @@
+# Ignore OS, editor, and miscellaneous cruft.
+
 # macOS
 .DS_Store
 .AppleDouble
@@ -6,6 +8,11 @@
 # Thumbnails
 ._*
 
-# Editor/OS junk
+# Windows
 Thumbs.db
+desktop.ini
+
+# Editors / IDEs
 *.swp
+.idea/
+.vscode/
