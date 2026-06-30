@@ -36,9 +36,9 @@ Machine-Learning-Notes/
 | File | Description |
 |------|-------------|
 | `Video_Recommendation.pdf` | End-to-end video recommendation system design notes (32 pages) |
-| `Video_Recommendation_Section_4.5_Heavy_Ranker.pdf` | Deep dive into the heavy ranking stage |
-| `Video_Recommendation_Section_5_Evaluation_Study_Guide.pdf` | Evaluation metrics and study guide |
-| `Video_Recommendation_Section_6_Serving_and_Monolith.pdf` | Serving infrastructure and monolith architecture |
+| `Section_4.5_Heavy_Ranker.pdf` | Deep dive into the heavy ranking stage |
+| `Section_5_Evaluation_Study_Guide.pdf` | Evaluation metrics and study guide |
+| `Section_6_Serving_and_Monolith.pdf` | Serving infrastructure and monolith architecture |
 | `Meta_Reels_RecSys_Feedback_Adaptation.pdf` | Meta engineering blog — Reels RecSys feedback adaptation |
 | `Meta_Instagram_Explore_RecSys_Scaling.pdf` | Meta engineering blog — Instagram Explore scaling |
 
