@@ -7,16 +7,16 @@ A personal compilation of notes, study guides, and reference materials for machi
 ## Contents
 
 ### General ML
-- `ML Interview Notes.pdf` — General ML interview notes
-- `ML Algorithms From Scratch.pdf` — ML algorithms implemented from scratch
-- `Pros and Cons of ML Models.pdf` — Quick reference for model trade-offs
-- `Pros and Cons of ML Models (Typeset).pdf` — Clean typeset/digital version of the same content
-- `Probability Problems 1.pdf` — Probability problems and solutions
-- `Probability Problems 1 (Typeset).pdf` — Clean typeset version with worked, verified solutions
+- `ML_Interview_Notes.pdf` — General ML interview notes
+- `ML_Algorithms_From_Scratch.pdf` — ML algorithms implemented from scratch
+- `Pros_and_Cons_of_ML_Models.pdf` — Quick reference for model trade-offs
+- `Pros_and_Cons_of_ML_Models_Typeset.pdf` — Clean typeset/digital version of the same content
+- `Probability_Problems_1.pdf` — Probability problems and solutions
+- `Probability_Problems_1_Typeset.pdf` — Clean typeset version with worked, verified solutions
 
 ### System Design
-- `System Design/Video Recommendation System Design.pdf` — Full video recommendation system design
-- `System Design/LinkedIn Feed System Design.pdf` — LinkedIn feed ranking system design
+- `System_Design/Video_Recommendation_System_Design.pdf` — Full video recommendation system design
+- `System_Design/LinkedIn_Feed_System_Design.pdf` — LinkedIn feed ranking system design
 
 ### Recommendation System
 A dedicated folder covering recommendation system design in depth.
@@ -24,11 +24,11 @@ A dedicated folder covering recommendation system design in depth.
 | File | Description |
 |------|-------------|
 | `Video_Recommendation.pdf` | End-to-end video recommendation system design notes (32 pages) |
-| `Video Recommendation - Section 4.5 Heavy Ranker.pdf` | Deep dive into the heavy ranking stage |
-| `Video Recommendation - Section 5 Evaluation Study Guide.pdf` | Evaluation metrics and study guide |
-| `Video Recommendation - Section 6 Serving and Monolith.pdf` | Serving infrastructure and monolith architecture |
-| `Adapting the Facebook Reels RecSys AI Model Based on User Feedback - Engineering at Meta.pdf` | Meta engineering blog — Reels RecSys feedback adaptation |
-| `Scaling the Instagram Explore recommendations system - Engineering at Meta.pdf` | Meta engineering blog — Instagram Explore scaling |
+| `Video_Recommendation_Section_4.5_Heavy_Ranker.pdf` | Deep dive into the heavy ranking stage |
+| `Video_Recommendation_Section_5_Evaluation_Study_Guide.pdf` | Evaluation metrics and study guide |
+| `Video_Recommendation_Section_6_Serving_and_Monolith.pdf` | Serving infrastructure and monolith architecture |
+| `Meta_Reels_RecSys_Feedback_Adaptation.pdf` | Meta engineering blog — Reels RecSys feedback adaptation |
+| `Meta_Instagram_Explore_RecSys_Scaling.pdf` | Meta engineering blog — Instagram Explore scaling |
 
 ---
 
