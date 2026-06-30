@@ -7,16 +7,16 @@ A personal compilation of notes, study guides, and reference materials for machi
 ## Contents
 
 ### General ML
-- `Notes_1.pdf` — General ML interview notes
-- `ML_Algorithms_From_Scratch.pdf` — ML algorithms implemented from scratch
-- `Pros and Cons of ML models.pdf` — Quick reference for model trade-offs
+- `ML Interview Notes.pdf` — General ML interview notes
+- `ML Algorithms From Scratch.pdf` — ML algorithms implemented from scratch
+- `Pros and Cons of ML Models.pdf` — Quick reference for model trade-offs
 - `Pros and Cons of ML Models (Typeset).pdf` — Clean typeset/digital version of the same content
-- `Probability_Problems_1.pdf` — Probability problems and solutions
+- `Probability Problems 1.pdf` — Probability problems and solutions
 - `Probability Problems 1 (Typeset).pdf` — Clean typeset version with worked, verified solutions
 
 ### System Design
-- `System_Design_Video_Recommendation.pdf` — Full video recommendation system design
-- `System_Design_LinkedIn_feed.pdf` — LinkedIn feed ranking system design
+- `System Design/Video Recommendation System Design.pdf` — Full video recommendation system design
+- `System Design/LinkedIn Feed System Design.pdf` — LinkedIn feed ranking system design
 
 ### Recommendation System
 A dedicated folder covering recommendation system design in depth.
