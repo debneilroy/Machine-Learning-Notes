@@ -4,23 +4,35 @@ A personal compilation of notes, study guides, and reference materials for machi
 
 ---
 
+## Structure
+
+```
+Machine-Learning-Notes/
+├── ML_Fundamentals/
+├── Probability/
+└── System_Design/
+    └── Recommendation_System/
+```
+
+---
+
 ## Contents
 
-### General ML
+### ML_Fundamentals/
 - `ML_Interview_Notes.pdf` — General ML interview notes
 - `ML_Algorithms_From_Scratch.pdf` — ML algorithms implemented from scratch
 - `Pros_and_Cons_of_ML_Models.pdf` — Quick reference for model trade-offs
-- `Pros_and_Cons_of_ML_Models_Typeset.pdf` — Clean typeset/digital version of the same content
+- `Pros_and_Cons_of_ML_Models_Typeset.pdf` — Clean typeset version of the same content
+
+### Probability/
 - `Probability_Problems_1.pdf` — Probability problems and solutions
 - `Probability_Problems_1_Typeset.pdf` — Clean typeset version with worked, verified solutions
 
-### System Design
-- `System_Design/Video_Recommendation_System_Design.pdf` — Full video recommendation system design
-- `System_Design/LinkedIn_Feed_System_Design.pdf` — LinkedIn feed ranking system design
+### System_Design/
+- `Video_Recommendation_System_Design.pdf` — Full video recommendation system design
+- `LinkedIn_Feed_System_Design.pdf` — LinkedIn feed ranking system design
 
-### Recommendation System
-A dedicated folder covering recommendation system design in depth.
-
+#### System_Design/Recommendation_System/
 | File | Description |
 |------|-------------|
 | `Video_Recommendation.pdf` | End-to-end video recommendation system design notes (32 pages) |
