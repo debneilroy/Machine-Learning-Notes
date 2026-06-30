@@ -19,7 +19,8 @@ Machine-Learning-Notes/
 ## Contents
 
 ### ML_Fundamentals/
-- `ML_Interview_Notes.pdf` — General ML interview notes
+- `ML_Interview_Notes.pdf` — General ML interview notes (handwritten)
+- `ML_Interview_Notes_Typeset.pdf` — Clean typeset version with verified content
 - `ML_Algorithms_From_Scratch.pdf` — ML algorithms implemented from scratch
 - `Pros_and_Cons_of_ML_Models.pdf` — Quick reference for model trade-offs
 - `Pros_and_Cons_of_ML_Models_Typeset.pdf` — Clean typeset version of the same content
