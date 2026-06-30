@@ -1,0 +1,18 @@
+# Ignore OS, editor, and miscellaneous cruft.
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editors / IDEs
+*.swp
+.idea/
+.vscode/
