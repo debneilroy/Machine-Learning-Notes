@@ -1,4 +1,4 @@
-# Machine Learning Notes
+# ML Interview Prep
 
 A personal compilation of notes, study guides, and reference materials for machine learning and data science interviews. This repo is actively maintained and will be updated as new content is added.
 
