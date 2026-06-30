@@ -27,7 +27,6 @@ A dedicated folder covering recommendation system design in depth.
 | `Video Recommendation - Section 4.5 Heavy Ranker.pdf` | Deep dive into the heavy ranking stage |
 | `Video Recommendation - Section 5 Evaluation Study Guide.pdf` | Evaluation metrics and study guide |
 | `Video Recommendation - Section 6 Serving and Monolith.pdf` | Serving infrastructure and monolith architecture |
-| `hellointerview-learn-ml-system-design-problem-breakdowns-video-recommendations.pdf` | HelloInterview problem breakdown for video recommendations |
 | `Adapting the Facebook Reels RecSys AI Model Based on User Feedback - Engineering at Meta.pdf` | Meta engineering blog — Reels RecSys feedback adaptation |
 | `Scaling the Instagram Explore recommendations system - Engineering at Meta.pdf` | Meta engineering blog — Instagram Explore scaling |
 
